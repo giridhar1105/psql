@@ -37,3 +37,4 @@ VALUES
 -- SELECT * FROM books WHERE author = 'Giridhar';
 -- UPDATE books SET read_status = TRUE WHERE id = 2;
 -- DELETE FROM books WHERE id = 1;  
+-- \q
