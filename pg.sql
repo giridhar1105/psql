@@ -28,8 +28,8 @@ VALUES
 
 INSERT INTO books (title, author, genre, read_status, usn)
 VALUES 
-    ('2004', 'Giridhar', 'Kolegara', TRUE, 1),
-    ('To Kill a Mockingbird', 'Harper Lee', 'Fiction', FALSE, 1),
+    ('Devil On Earth', 'Giridhar', 'Kolegara', TRUE, 1),
+    ('Mockingbird', 'Harper Lee', 'Fiction', FALSE, 1),
     ('The Great Gatsby', 'F. Scott Fitzgerald', 'Classic', TRUE, 2);
 
 -- SELECT * FROM books;
